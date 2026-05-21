@@ -1,46 +1,56 @@
-# <div align="center"> Manuel Alfaro </div>
-
-<!-- Typing Animation Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Systems+Engineer+%26+Developer;Building+Tomorrow's+Software+Today;Java+•+Python+•+JavaScript+Enthusiast" alt="Typing SVG" />
+
+```
+ ███╗   ███╗ █████╗ ███╗   ██╗██╗   ██╗███████╗██╗
+ ████╗ ████║██╔══██╗████╗  ██║██║   ██║██╔════╝██║
+ ██╔████╔██║███████║██╔██╗ ██║██║   ██║█████╗  ██║
+ ██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██║
+ ██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝███████╗███████╗
+ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=800&color=00FFA3&center=true&vCenter=true&width=650&lines=Systems+Engineering+Student;Java+%7C+Python+%7C+JavaScript;Building+real+things+while+learning;Cartagena%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+
+<br/>
+
+[![University](https://img.shields.io/badge/Tecnológico_Comfenalco-4th_Semester-00FFA3?style=flat-square&labelColor=0A0E1A)](https://github.com/ManuelAlfaro-glitch)
+[![Location](https://img.shields.io/badge/Cartagena-Colombia-00D9FF?style=flat-square&labelColor=0A0E1A)](https://github.com/ManuelAlfaro-glitch)
+[![Status](https://img.shields.io/badge/Status-Open_to_learn-FF6B35?style=flat-square&labelColor=0A0E1A)](https://github.com/ManuelAlfaro-glitch)
+
 </div>
 
 ---
 
-## <div align="center">🚀 Professional Software Developer</div>
+## `$ whoami`
 
-<div align="center">
+```java
+public class ManuelAlfaro {
 
-**Crafting elegant solutions through code | Systems Engineering Student at Fundación Universitaria Tecnológico Comfenalco**
+    String name       = "Manuel Alfaro";
+    String role       = "Systems Engineering Student";
+    String university = "Fundación Universitaria Tecnológico Comfenalco";
+    String semester   = "4th semester — actively building";
+    String location   = "Cartagena, Colombia";
 
-**Location:** 📍 Cartagena, Colombia  
-**Status:** 🎓 University Student | 💼 Building Portfolio | 🔄 Continuous Learner
+    String[] currentlyLearning = {
+        "Java (OOP, data structures)",
+        "Python (scripting, logic)",
+        "Web development (HTML5, CSS3, JavaScript)"
+    };
 
-</div>
-
----
-
-## <div align="center"> ✨ About Me </div>
-
-I'm a passionate **Systems Engineer and Software Developer** dedicated to creating high-quality, elegant software solutions. With a strong foundation in multiple programming languages and a commitment to clean code principles, I'm building a professional portfolio that showcases innovation, problem-solving, and technical excellence.
-
-My philosophy: **Write code that speaks, solve problems that matter, and never stop learning.**
-
-### 🎯 What Drives Me
-- 💡 Creating elegant and efficient solutions to complex problems
-- 🔍 Understanding the "why" behind every line of code
-- 🌱 Continuous improvement through learning and experimentation
-- 🤝 Contributing to projects that make a difference
-- 📚 Building a strong foundation for a successful tech career
+    String mindset = "Still early. Learning in public. Improving every commit.";
+}
+```
 
 ---
 
-## <div align="center"> 🛠️ Technology Stack </div>
+## `$ cat tech_stack.md`
 
-### Programming Languages
+### Languages I work with
+
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,102 +58,77 @@ My philosophy: **Write code that speaks, solve problems that matter, and never s
 
 </div>
 
-### Frontend Technologies
+### Tools & environment
+
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF6B9D?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-### Backend & Core Technologies
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-00D9FF?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## <div align="center"> 💻 Development Tools & Environment </div>
-
-### IDEs & Editors
-<div align="center">
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-09D3AC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)
-
-</div>
-
-### Version Control & Collaboration
-<div align="center">
-
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-### Additional Tools
+---
+
+## `$ github stats`
+
 <div align="center">
 
-![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![API Testing](https://img.shields.io/badge/API%20Testing-FF6B6B?style=for-the-badge&logoColor=white)
-![Debugging](https://img.shields.io/badge/Debugging-00D9FF?style=for-the-badge&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ManuelAlfaro-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E1A&title_color=00FFA3&icon_color=00D9FF&text_color=C8D6F0&border_radius=8" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelAlfaro-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E1A&title_color=00FFA3&text_color=C8D6F0&border_radius=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelAlfaro-glitch&theme=tokyonight&hide_border=true&background=0A0E1A&ring=00FFA3&fire=FF6B35&currStreakLabel=00D9FF&border_radius=8" />
 
 </div>
 
 ---
 
-## <div align="center"> 📊 GitHub Statistics </div>
+## `$ ls -la projects/`
+
+> These are my university projects and practice exercises.
+> Still learning — every repo here represents a step forward.
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuelAlfaro-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=00d9ff)](https://github.com/ManuelAlfaro-glitch)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelAlfaro-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9)](https://github.com/ManuelAlfaro-glitch)
-
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ManuelAlfaro-glitch&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/ManuelAlfaro-glitch)
+| Repository | What it is | Stack |
+|:---|:---|:---:|
+| [**Trabajos_U_Java**](https://github.com/ManuelAlfaro-glitch/Trabajos_U_Java) | University Java exercises — OOP, data structures, algorithms | `Java` |
+| [**Trabajos_U_HTML**](https://github.com/ManuelAlfaro-glitch/Trabajos_U_HTML) | Web development work — HTML5, CSS3, layout practice | `HTML5` `CSS3` |
 
 </div>
 
 ---
 
-## <div align="center"> 🎯 Featured Repositories </div>
+## `$ cat current_focus.txt`
 
-<!-- CUSTOMIZE: Update the links below to match your actual repository URLs -->
+```
+- Strengthening Java fundamentals (OOP, collections, problem solving)
+- Building more complete web projects with JS
+- Learning to write cleaner, more readable code
+- Finishing 4th semester strong
+- Growing this GitHub as a real portfolio
+```
+
+---
+
+## `$ echo $PHILOSOPHY`
 
 <div align="center">
 
-### 📚 Core Projects
-
-| Repository | Description | Tech Stack | Status |
-|:---:|:---:|:---:|:---:|
-| **[Trabajos_U_Java](https://github.com/ManuelAlfaro-glitch/Trabajos_U_Java)** | University Java assignments and projects showcasing OOP principles, data structures, and algorithmic problem-solving | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) | ✨ Active |
-| **[Trabajos_U_HTML](https://github.com/ManuelAlfaro-glitch/Trabajos_U_HTML)** | Web development projects featuring responsive design, semantic HTML5, and modern CSS3 styling techniques | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3) | ✨ Active |
+> *"Still early. Still learning. Shipping anyway."*
 
 </div>
 
 ---
 
-## <div align="center"> 🔥 Current Focus </div>
-
 <div align="center">
 
-- 🎓 **Completing University Projects** — Building strong fundamentals in Systems Engineering
-- 💼 **Portfolio Development** — Creating professional projects that demonstrate technical expertise
-- 🚀 **Web Development** — Mastering responsive design and interactive user experiences
-- 🏗️ **Backend Architecture** — Deepening knowledge of Java and Python for server-side development
-- 📚 **Clean Code Practices** — Implementing best practices and design patterns in all projects
+<img src="https://komarev.com/ghpvc/?username=ManuelAlfaro-glitch&color=00FFA3&style=flat-square&label=Profile+Views" />
 
 </div>
-
----
-
-## <div align="center"> 📖 Learning Journey </div>
-
-<div align="center">
